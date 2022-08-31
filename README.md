@@ -17,5 +17,21 @@ Repositório destinado exclusivamente a armazenar arquivos, anotações e desafi
 
 <!-- Marcar as funcionalidades já desenvolvidas durante a evolução dos commits -->
 ## 💻 Funcionalidades 
-- [x] Em breve
-- [ ] Em breve
+Aprendizado em:
+- [x] Estrutura de projeto ANGULAR
+- [ ] Criando um componente
+- [ ] Templates
+- [ ] Pipe
+- [ ] Property e Event binding
+- [ ] Two-way data binding
+- [ ] Renderizar lista de dados
+- [ ] Componente personalizado
+- [ ] Comunicação entre componentes
+- [ ] Serviços
+- [ ] Ciclo de vida
+- [ ] Elementos ng-content
+- [ ] Roteamente de uma aplicação
+- [ ] Navegando entre páginas
+- [ ] Acessando parâmetro da URL
+- [ ] Lazy loading
+- [ ] Proteção de rotas (route guard)
