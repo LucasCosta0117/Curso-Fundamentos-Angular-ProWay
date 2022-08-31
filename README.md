@@ -20,7 +20,7 @@ Repositório destinado exclusivamente a armazenar arquivos, anotações e desafi
 Aprendizado em:
 - [X] Estrutura de projeto ANGULAR
 - [X] Criando um componente
-- [ ] Templates
+- [X] Templates
 - [ ] Pipe
 - [ ] Property e Event binding
 - [ ] Two-way data binding
