@@ -2,7 +2,7 @@
 
 ---
 
-<h2 align="center">🚧 Projeto "CURSO ANGULAR - PROWAY" 🚀 em construção... 🚧</h2>
+<h2 align="center">🚧 Projeto "CURSO FUNDAMENTOS ANGULAR - PROWAY" 🚀 em construção... 🚧</h2>
 
 
 ---
@@ -18,4 +18,4 @@ Repositório destinado exclusivamente a armazenar arquivos, anotações e desafi
 <!-- Marcar as funcionalidades já desenvolvidas durante a evolução dos commits -->
 ## 💻 Funcionalidades 
 - [x] Em breve
-- [] Em breve
+- [ ] Em breve
