@@ -18,8 +18,8 @@ Repositório destinado exclusivamente a armazenar arquivos, anotações e desafi
 <!-- Marcar as funcionalidades já desenvolvidas durante a evolução dos commits -->
 ## 💻 Funcionalidades 
 Aprendizado em:
-- [x] Estrutura de projeto ANGULAR
-- [ ] Criando um componente
+- [X] Estrutura de projeto ANGULAR
+- [X] Criando um componente
 - [ ] Templates
 - [ ] Pipe
 - [ ] Property e Event binding
