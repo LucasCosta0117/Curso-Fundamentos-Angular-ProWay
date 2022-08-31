@@ -21,7 +21,7 @@ Aprendizado em:
 - [X] Estrutura de projeto ANGULAR
 - [X] Criando um componente
 - [X] Templates
-- [ ] Pipe
+- [X] Pipe
 - [ ] Property e Event binding
 - [ ] Two-way data binding
 - [ ] Renderizar lista de dados

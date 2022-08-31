@@ -1,2 +1,7 @@
-<p>segundo-componente works!</p>
-<p>{{ nome | uppercase }}</p> <!--Interpolação de texto e uso de pipe para formatação-->
+<h2>Aprofundando os conhecimentos</h2>
+
+<!--Interpolação de texto (template string) e uso de pipe para formatação-->
+<p>{{ nome | uppercase }}</p> 
+
+<!--Uso do PIPE padrão para formatação dos templates (buscar demais pipes na documentação)-->
+<p>Data nascimento: {{ dataNascimento | date: "dd/MM/yyyy" }}</p>
