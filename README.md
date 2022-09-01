@@ -22,7 +22,7 @@ Aprendizado em:
 - [X] Criando um componente
 - [X] Templates
 - [X] Pipe
-- [ ] Property e Event binding
+- [X] Property e Event binding
 - [ ] Two-way data binding
 - [ ] Renderizar lista de dados
 - [ ] Componente personalizado

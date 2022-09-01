@@ -1,7 +1,13 @@
 <h2>Aprofundando os conhecimentos</h2>
 
+<!--Uso de propery binding-->
+<img [src]="urlImagem" width="300" />
+
 <!--Interpolação de texto (template string) e uso de pipe para formatação-->
 <p>{{ nome | uppercase }}</p> 
 
 <!--Uso do PIPE padrão para formatação dos templates (buscar demais pipes na documentação)-->
 <p>Data nascimento: {{ dataNascimento | date: "dd/MM/yyyy" }}</p>
+
+<!--Uso de event binding-->
+<button type="button" (click)="mostrarDataNascimento()">Mostrar Data de Nascimento</button>
