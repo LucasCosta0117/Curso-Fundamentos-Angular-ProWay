@@ -24,7 +24,7 @@ Aprendizado em:
 - [X] Pipe
 - [X] Property e Event binding
 - [x] Two-way data binding
-- [ ] Renderizar lista de dados
+- [X] Renderizar lista de dados
 - [ ] Componente personalizado
 - [ ] Comunicação entre componentes
 - [ ] Serviços
